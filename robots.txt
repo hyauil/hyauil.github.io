@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hyauil.github.io/qrI/sitemap.qrI.gz
